@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋, I'm Prashant Gupta. I'm currently working as FullStack Developer in Nutanix Inc. I've around around 3 years of experience in which I've worked various technologies including Javascript, React.js, Node.js, Java Spring Boot, Python. I'm always eager to learn new things and ready to contribute. Apart from working as a Fullstack developer, I've also mentored around 50+ students in their fullstack journey by associated with Ed-Tech Platforms namely Prepbytes (acquired by CollegeDekho) and Newton School. Here my role was to educate students on technologies like React.js, Node.js and MongoDB. 
+
 
 <!--
 **PrashantGuptaa/PrashantGuptaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
