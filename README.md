@@ -1,5 +1,5 @@
 <p>
-Hi there <img src='./wavy.gif' height='15px' width='15px' />, I'm Prashant Gupta. I'm currently working as FullStack Developer in Nutanix Inc. I've around around 3 years of experience in which I've worked various technologies including Javascript, React.js, Node.js, Java Spring Boot, Python. I've developed many small/medium games like: <br />
+Hi there <img src='./wavy.gif' height='25px' width='25px' />, I'm Prashant Gupta. I'm currently working as FullStack Developer in Nutanix Inc. I've around around 3 years of experience in which I've worked various technologies including Javascript, React.js, Node.js, Java Spring Boot, Python. I've developed many small/medium games like: <br />
 <table>
 <thead>
 <tr>
