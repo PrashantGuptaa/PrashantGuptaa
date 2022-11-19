@@ -1,5 +1,5 @@
 <p>
-Hi there <img src='./wavy.gif' height='25px' width='25px' />, I'm Prashant Gupta. I'm currently working as FullStack Developer in Nutanix Inc. I've around around 3 years of experience in which I've worked various technologies including Javascript, React.js, Node.js, Java Spring Boot, Python. I've developed many small/medium games like: <br />
+Hi there <img src='./wavy.gif' height='20px' width='20px' />, I'm Prashant Gupta. I'm currently working as FullStack Developer in Nutanix Inc. I've around around 3 years of experience in which I've worked various technologies including Javascript, React.js, Node.js, Java Spring Boot, Python. I've developed many small/medium games like: <br />
 <table>
 <thead>
 <tr>
@@ -32,14 +32,14 @@ Hosted Link
 
 <tr>
 <td>3.)</td>
-<td>TIC-TAC-TOE</td>
+<td>Tic-Tac-Toe</td>
 <td>Regular tic-tac-toe game</td>
 <td><a href='https://5qf1f.csb.app/' target='_blank'>Tic-tac-toe Host Url</a> </td>
 </tr>
 
 <tr>
 <td>4.)</td>
-<td>N*N TIC-TAC-TOE</td>
+<td>N*N Tic-Tac-Toe</td>
 <td>Regular Tic-tac-toe with N*N grid</td>
 <td><a href='https://0hu7q.csb.app/' target='_blank'>N*N tic-tac-toe Host Url</a> </td>
 </tr>
