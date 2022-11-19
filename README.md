@@ -1,5 +1,6 @@
 <p>
-Hi there <img src='./wavy.gif' height='20px' width='20px' />, I'm Prashant Gupta. I'm currently working as FullStack Developer in Nutanix Inc. I've around around 3 years of experience in which I've worked various technologies including Javascript, React.js, Node.js, Java Spring Boot, Python. I've developed many small/medium games like: <br />
+Hi there <img src='./wavy.gif' height='20px' width='20px' />, I'm Prashant Gupta. I'm currently working as FullStack Developer in Nutanix Inc. I've around around 3 years of experience in which I've worked various technologies including Javascript, React.js, Node.js, Java Spring Boot, Python. I'm currently working on an e-commerce project.<br />
+Personally, I enjoy developing games and I've developed many small/medium games like: <br />
 <table>
 <thead>
 <tr>
@@ -63,6 +64,9 @@ I've also contributed with <a href='http://thinkcloudly.com/' target='_blank'>Th
 <p>Apart from working as a Fullstack developer, I've also mentored around 50+ students in their fullstack journey by associated with Ed-Tech Platforms namely Prepbytes (acquired by CollegeDekho) and Newton School. Here my role was to educate students on technologies like React.js, Node.js and MongoDB. 
 
 </p>
+
+<p>
+For more details feel free to drop me an email at: prashant0gupta@gmail.com</p>
 <!--
 **PrashantGuptaa/PrashantGuptaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
