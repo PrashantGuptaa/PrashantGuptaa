@@ -61,7 +61,7 @@ Hosted Link
 I've also contributed with <a href='http://thinkcloudly.com/' target='_blank'>ThinkClouldy</a> in building various tools to enhance their business.
 </p>
 
-<p>Apart from working as a Fullstack developer, I've also mentored around 50+ students in their fullstack journey by associated with Ed-Tech Platforms namely Prepbytes (acquired by CollegeDekho) and Newton School. Here my role was to educate students on technologies like React.js, Node.js and MongoDB. 
+<p>Apart from working as a Fullstack developer, I've also mentored around 50+ students in their fullstack journey by associating with Ed-Tech Platforms namely Prepbytes (acquired by CollegeDekho) and Newton School. Here my role was to educate students on technologies like React.js, Node.js and MongoDB. 
 
 </p>
 
